@@ -1,3 +1,0 @@
----
-fpm:
-  socket_path: /tmp/{{ app.name }}.sock

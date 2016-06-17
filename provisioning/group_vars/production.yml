@@ -1,0 +1,5 @@
+env: prod
+
+# SFTP Access User
+access_user: ubuntu
+access_password: ubuntu

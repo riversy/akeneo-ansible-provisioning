@@ -1,9 +1,8 @@
 # Akeneo Ansible playbook
 
 Install Akeneo with every thing it needs:
- - NGinx
- - PHP-FPM
- - PHP 5.5
+ - Apache 2
+ - PHP 5.6
  - MySQL
 
 If you have some improvement ideas feel free to send us a PR, we will <3 them!

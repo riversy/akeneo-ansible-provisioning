@@ -1,0 +1,5 @@
+---
+- name: debops.ntp
+- name: geerlingguy.firewall
+- name: geerlingguy.apache
+- name: geerlingguy.mysql

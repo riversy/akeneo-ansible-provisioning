@@ -1,3 +1,0 @@
----
-nginx:
-  root: "{{ app.path }}/web"
